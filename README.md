@@ -197,6 +197,7 @@ ON d.donor_id = dn.donor_id;
 To display the view:
 
 SELECT * FROM Donor_Donation_View;
+
 2. Hospital Blood Bank View
 
 The Hospital_BloodBank_View provides:
@@ -246,7 +247,8 @@ SELECT * FROM Recipient_Hospital_View;
 📁 Project Files
 Blood-Donation-Management-SQL
 
-Project.sql <a href="Blood-Donation-Management-System-Using-SQL/SQLProject_BloodBankDonation.sql at main · SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL" >< Project in SQL </a>
+Project in SQL
+< a href = "https://github.com/SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL/blob/main/SQLProject_BloodBankDonation.sql">Blood Donar Management System In SQL </a>
 Contains the database creation, table creation, records, joins, subqueries, and view creation statements used in the project.
 
 SQL PPT <a href = "Blood-Donation-Management-System-Using-SQL/Blood Donation Management System.pptx at main · SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL"><Prjoect PPT </a>
