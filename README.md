@@ -248,10 +248,11 @@ SELECT * FROM Recipient_Hospital_View;
 Blood-Donation-Management-SQL
 
 Project in SQL
-< a href = "https://github.com/SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL/blob/main/SQLProject_BloodBankDonation.sql">Blood Donar Management System In SQL </a>
+< a href = "https://github.com/SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL/blob/main/SQLProject_BloodBankDonation.sql"> Blood Donar Management System In SQL </a>
 Contains the database creation, table creation, records, joins, subqueries, and view creation statements used in the project.
 
-SQL PPT <a href = "Blood-Donation-Management-System-Using-SQL/Blood Donation Management System.pptx at main · SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL"><Prjoect PPT </a>
+SQL PPT 
+<a href = "Blood-Donation-Management-System-Using-SQL/Blood Donation Management System.pptx at main · SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL">< Project PPT </a>
 Contains the project presentation, database structure, ER diagram, table descriptions, SQL queries, and outputs.
 
 Key Insights
