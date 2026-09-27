@@ -252,7 +252,7 @@ Project in SQL
 <a href="https://github.com/SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL/blob/main/SQLProject_BloodBankDonation.sql">Blood Donor Management System in SQL</a> — Contains the database creation, table creation, records, joins, subqueries, and view creation statements used in the project.
 
 SQL PPT
-<a href="https://github.com/SaniyaPatil-1706/Blood-Donation-Management-System-Using-SQL/blob/main/Blood-Donation-Management-System-Using-SQL/Blood%20Donation%20Management%20System.pptx">Project PPT</a> — Contains the project presentation, database structure, ER diagram, table descriptions, SQL queries, and outputs.
+<a href="Blood Donation Management System.pptx">Project PPT</a> — Contains the project presentation, database structure, ER diagram, table descriptions, SQL queries, and outputs.
 
 
 Key Insights
